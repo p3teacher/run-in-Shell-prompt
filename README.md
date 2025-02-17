@@ -1,6 +1,6 @@
-# Apps  All/ep/run-in-Shell-prompt
+# Apps  All/ep/
 ![logo](./logos/logo-replit-green.svg)
-# 
+# run-in-Shell-prompt
 What my GitHub repository size is? --> Account settings> Repository<br>
 👋 Hi, I’m @p3teacher<br>
 👀 I’m interested in Islamic Geometry Pattern.<br>
